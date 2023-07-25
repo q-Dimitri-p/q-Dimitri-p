@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Phone Number: +55 35 992581483</h3>
-<h3 align="left">Discord: WeSUMMERx#1001</h3>
+<h3 align="left">Discord: wesummerx</h3>
 <p align="left">
 </p>
 
