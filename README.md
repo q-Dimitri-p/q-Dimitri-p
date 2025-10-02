@@ -1,23 +1,12 @@
 <h1 align="center">Hello World! 👋</h1>
-<h3 align="center">I'm Dimitri, a passionate Developer from Brazil and looking for a job.</h3>
+<h3 align="center">I'm Dimitri, a passionate Developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q-dimitri-p&label=Profile%20views&color=0e75b6&style=flat" alt="q-dimitri-p" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, PHP and VueJS.**
+- 👨‍💻 All of my projects are available at my portfolio [https://port-folio-dima.netlify.app/](https://port-folio-dima.netlify.app/)
 
-- 🤝 I’m looking for help with **ReactJS and VueJS.**
+- 📝 Catch me on LinkedIn [https://www.linkedin.com/in/dimitri-arturo-sales-1172b4274/](https://www.linkedin.com/in/dimitri-arturo-sales-1172b4274/)
 
-- 👨‍💻 All of my projects are available at [https://port-folio-dima.netlify.app/](https://port-folio-dima.netlify.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/dimitri-arturo-sales-1172b4274/](https://www.linkedin.com/in/dimitri-arturo-sales-1172b4274/)
-
-- 💬 Ask me about **HTML, CSS, JS, ReactJS, Bootstrap and VueJS**
-
-- 📫 How to reach me **https://port-folio-dima.netlify.app/**
-
-- ⚡ Fun fact **I can speak Russian, Portuguese and English.**
-
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">Phone Number: +55 35 992581483</h3>
 <h3 align="left">Discord: wesummerx</h3>
 <p align="left">
